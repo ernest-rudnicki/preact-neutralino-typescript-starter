@@ -1,5 +1,5 @@
 # Preact Neutralino TypeScript Starter
-A boilerplate starter for building lightweight desktop applications with Preact, Neutralino and TypeScript.
+A boilerplate starter for building lightweight desktop applications with Preact, Neutralino and TypeScript. The template uses SCSS and React Redux.
 
 ## Running the application in a development mode
 Firstly, clone or fork this repository and then run following commands.
@@ -28,4 +28,4 @@ npm run dev
 
 *   `npm run dev:app`: runs only the neutralino.js application in development mode
 
-*   `npm run build-release`: runs only the nautrlino.js application in development mode
+*   `npm run build-release`: runs only the neutralino.js application in development mode
