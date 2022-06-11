@@ -26,4 +26,4 @@ npm run dev
 
 *   `npm run dev:app`: runs only the neutralino.js application in development mode
 
-*   `npm run build-release`: runs only the neutralino.js application in development mode
+*   `npm run build-release`: builds the project for realease
