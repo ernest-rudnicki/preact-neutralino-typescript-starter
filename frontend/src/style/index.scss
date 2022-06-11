@@ -1,0 +1,27 @@
+@use "style/variables" as v;
+
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background: v.$white;
+	font-family: sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	line-height: normal;
+	overflow: hidden;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#preact_root {
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+	margin-block-start: 0;
+	margin-block-end: 0;
+}

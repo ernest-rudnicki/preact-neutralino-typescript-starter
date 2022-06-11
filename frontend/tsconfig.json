@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "ESNext",
+        "allowJs": true,
+        "jsx": "react",
+        "jsxFactory": "h",
+        "jsxFragmentFactory": "Fragment",
+        "noEmit": true,
+        "strict": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "baseUrl": "./src",
+        "paths": {
+            "assets/*": ["assets/*"],
+            "components/*": ["components/*"],
+            "neutralino/*": ["neutralino/*"],
+            "routes/*": ["routes/*"],
+            "store/*": ["store/*"],
+            "style": ["style/*"]
+        }
+    },
+    "include": ["src/**/*", "tests/**/*"]
+}
