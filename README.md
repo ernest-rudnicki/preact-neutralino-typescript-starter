@@ -2,8 +2,6 @@
 A boilerplate starter for building lightweight desktop applications with Preact, Neutralino and TypeScript. The template uses SCSS and React Redux.
 
 ## Running the application in a development mode
-Firstly, clone or fork this repository and then run following commands.
-
 ```
 // install neutralino cli globally
 npm install -g @neutralinojs/neu
