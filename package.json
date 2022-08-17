@@ -15,13 +15,16 @@
     "lint-fix": "cd ./frontend && npm run lint -- --fix",
     "build-release": "cd ./frontend && npm run build && cd ../ && neu build --release"
   },
-  "keywords": ["Preact", "neutralino.js", "TypeScript"],
+  "keywords": [
+    "Preact",
+    "neutralino.js",
+    "TypeScript"
+  ],
   "author": "Ernest Rudnicki",
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
-    "@typescript-eslint/eslint-plugin": "^5.33.1",
     "concurrently": "^7.3.0",
     "husky": "^8.0.1"
   }
