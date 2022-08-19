@@ -16,7 +16,7 @@
     "@reduxjs/toolkit": "^1.8.1",
     "preact": "^10.3.1",
     "preact-render-to-string": "^5.2.2",
-    "preact-router": "^3.2.1",
+    "preact-router": "^4.1.0",
     "react-colorful": "^5.6.0",
     "react-icons": "^4.4.0",
     "react-redux": "^8.0.2",
