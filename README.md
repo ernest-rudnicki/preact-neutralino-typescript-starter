@@ -18,7 +18,7 @@ npm run setup
 // run application in the development mode (after the preact project builds, you need to refresh the neutralino app)
 npm run dev
 
-// if the application does not refresh (happened for me on Mac with M1) run app parts separataly
+// if the application does not refresh (happened for me on Mac with M1) run app parts separately
 npm run dev:front
 
 // in another terminal
