@@ -43,7 +43,7 @@
     "preact-cli": "3.4.1",
     "prettier": "2.7.1",
     "redux-mock-store": "1.5.4",
-    "sass": "1.54.9",
+    "sass": "1.56.2",
     "sass-loader": "10.2.0",
     "sirv-cli": "2.0.2",
     "typescript": "4.8.3"
