@@ -13,7 +13,7 @@
     "test:watch": "jest ./tests --watch"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "1.8.5",
+    "@reduxjs/toolkit": "1.9.2",
     "preact": "10.11.0",
     "preact-render-to-string": "5.2.4",
     "preact-router": "4.1.0",
